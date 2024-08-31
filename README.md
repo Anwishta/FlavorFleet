@@ -1,2 +1,2 @@
 # FlavorFleet
-a fast responsive full-stack website that allows you to order from various foods and deliveries it to your doorstep
+a fast responsive full-stack website that allows you to order from food various shops and deliveries to your doorstep
