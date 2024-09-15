@@ -43,6 +43,7 @@
 }
 .navbar-search-icon{
   position: relative;
+  padding-top: 10px;
 }
 .navbar-search-icon .dot{
   position: relative;
