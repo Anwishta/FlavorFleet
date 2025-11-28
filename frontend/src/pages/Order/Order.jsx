@@ -4,7 +4,7 @@ import './Order.css'
 const Order = () => {
   return (
     <div>
-      
+      This is the Order page.
     </div>
   )
 }
